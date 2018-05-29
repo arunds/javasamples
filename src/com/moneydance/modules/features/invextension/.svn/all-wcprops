@@ -1,0 +1,317 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/138/trunk/invextension/src/com/moneydance/modules/features/invextension
+END
+meta_info.dict
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/115/trunk/invextension/src/com/moneydance/modules/features/invextension/meta_info.dict
+END
+TotalReportOutputPane.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/115/trunk/invextension/src/com/moneydance/modules/features/invextension/TotalReportOutputPane.java
+END
+InvestmentReportsHelp.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/115/trunk/invextension/src/com/moneydance/modules/features/invextension/InvestmentReportsHelp.html
+END
+XIRRNPV.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/115/trunk/invextension/src/com/moneydance/modules/features/invextension/XIRRNPV.java
+END
+DateMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/115/trunk/invextension/src/com/moneydance/modules/features/invextension/DateMap.java
+END
+TotalReportOutputFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/117/trunk/invextension/src/com/moneydance/modules/features/invextension/TotalReportOutputFrame.java
+END
+CategoryMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/115/trunk/invextension/src/com/moneydance/modules/features/invextension/CategoryMap.java
+END
+GainsAverageCalc.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/115/trunk/invextension/src/com/moneydance/modules/features/invextension/GainsAverageCalc.java
+END
+AllAggregate.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/115/trunk/invextension/src/com/moneydance/modules/features/invextension/AllAggregate.java
+END
+TotalReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/115/trunk/invextension/src/com/moneydance/modules/features/invextension/TotalReport.java
+END
+Prefs.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/115/trunk/invextension/src/com/moneydance/modules/features/invextension/Prefs.java
+END
+SecurityAccountEditorForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/115/trunk/invextension/src/com/moneydance/modules/features/invextension/SecurityAccountEditorForm.java
+END
+ReportConfigAccountChooserPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/117/trunk/invextension/src/com/moneydance/modules/features/invextension/ReportConfigAccountChooserPanel.java
+END
+Aggregator.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/115/trunk/invextension/src/com/moneydance/modules/features/invextension/Aggregator.java
+END
+GainsCalc.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/115/trunk/invextension/src/com/moneydance/modules/features/invextension/GainsCalc.java
+END
+SecurityAccountWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/115/trunk/invextension/src/com/moneydance/modules/features/invextension/SecurityAccountWrapper.java
+END
+ReportControlFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/115/trunk/invextension/src/com/moneydance/modules/features/invextension/ReportControlFrame.java
+END
+DateRange.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/115/trunk/invextension/src/com/moneydance/modules/features/invextension/DateRange.java
+END
+CurrencyWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/115/trunk/invextension/src/com/moneydance/modules/features/invextension/CurrencyWrapper.java
+END
+ReportControlPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/138/trunk/invextension/src/com/moneydance/modules/features/invextension/ReportControlPanel.java
+END
+GoalSeekStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/115/trunk/invextension/src/com/moneydance/modules/features/invextension/GoalSeekStatus.java
+END
+CompositeReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/115/trunk/invextension/src/com/moneydance/modules/features/invextension/CompositeReport.java
+END
+TotalSnapshotReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/115/trunk/invextension/src/com/moneydance/modules/features/invextension/TotalSnapshotReport.java
+END
+GoalSeekFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/115/trunk/invextension/src/com/moneydance/modules/features/invextension/GoalSeekFunction.java
+END
+ReportConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/115/trunk/invextension/src/com/moneydance/modules/features/invextension/ReportConfig.java
+END
+SecurityReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/115/trunk/invextension/src/com/moneydance/modules/features/invextension/SecurityReport.java
+END
+BulkSecInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/115/trunk/invextension/src/com/moneydance/modules/features/invextension/BulkSecInfo.java
+END
+TransactionValues.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/115/trunk/invextension/src/com/moneydance/modules/features/invextension/TransactionValues.java
+END
+TotalFromToReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/115/trunk/invextension/src/com/moneydance/modules/features/invextension/TotalFromToReport.java
+END
+ReportSaveControlFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/115/trunk/invextension/src/com/moneydance/modules/features/invextension/ReportSaveControlFrame.java
+END
+ReportConfigFieldChooserPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/115/trunk/invextension/src/com/moneydance/modules/features/invextension/ReportConfigFieldChooserPanel.java
+END
+InvestmentAccountWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/115/trunk/invextension/src/com/moneydance/modules/features/invextension/InvestmentAccountWrapper.java
+END
+SecurityTypeWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/115/trunk/invextension/src/com/moneydance/modules/features/invextension/SecurityTypeWrapper.java
+END
+DateRangePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/117/trunk/invextension/src/com/moneydance/modules/features/invextension/DateRangePanel.java
+END
+ReportSaveControlPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/115/trunk/invextension/src/com/moneydance/modules/features/invextension/ReportSaveControlPanel.java
+END
+icon.gif
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/115/trunk/invextension/src/com/moneydance/modules/features/invextension/icon.gif
+END
+HelpFileDisplay.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/115/trunk/invextension/src/com/moneydance/modules/features/invextension/HelpFileDisplay.java
+END
+XIRRData.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/115/trunk/invextension/src/com/moneydance/modules/features/invextension/XIRRData.java
+END
+GainsLotMatchCalc.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/115/trunk/invextension/src/com/moneydance/modules/features/invextension/GainsLotMatchCalc.java
+END
+SecuritySnapshotReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/115/trunk/invextension/src/com/moneydance/modules/features/invextension/SecuritySnapshotReport.java
+END
+Tradeable.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/115/trunk/invextension/src/com/moneydance/modules/features/invextension/Tradeable.java
+END
+XIRR.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/115/trunk/invextension/src/com/moneydance/modules/features/invextension/XIRR.java
+END
+GoalSeekData.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/115/trunk/invextension/src/com/moneydance/modules/features/invextension/GoalSeekData.java
+END
+Main.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/115/trunk/invextension/src/com/moneydance/modules/features/invextension/Main.java
+END
+SecuritySubTypeWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/115/trunk/invextension/src/com/moneydance/modules/features/invextension/SecuritySubTypeWrapper.java
+END
+LogController.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/115/trunk/invextension/src/com/moneydance/modules/features/invextension/LogController.java
+END
+IOUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/115/trunk/invextension/src/com/moneydance/modules/features/invextension/IOUtils.java
+END
+GoalSeek.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/115/trunk/invextension/src/com/moneydance/modules/features/invextension/GoalSeek.java
+END
+SecurityFromToReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/115/trunk/invextension/src/com/moneydance/modules/features/invextension/SecurityFromToReport.java
+END
+AggregationController.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/117/trunk/invextension/src/com/moneydance/modules/features/invextension/AggregationController.java
+END
+DateUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/115/trunk/invextension/src/com/moneydance/modules/features/invextension/DateUtils.java
+END
+ComponentReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/115/trunk/invextension/src/com/moneydance/modules/features/invextension/ComponentReport.java
+END
